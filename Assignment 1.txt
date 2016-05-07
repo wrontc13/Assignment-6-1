@@ -1,0 +1,11 @@
+name = "Mark"
+mark1 = 100
+mark2 = 100
+mark3 = 100
+total = mark1 + mark2 + mark3
+if total > 40
+puts "Pass"
+else total < 40
+puts "fail"
+end
+gets
